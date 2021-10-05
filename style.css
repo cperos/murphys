@@ -16,3 +16,9 @@
   padding-bottom: 10px;
   color:white;
 }
+
+.grad-background {
+  background: url('http://courses.ics.hawaii.edu/ics314f20/morea/ui-frameworks/murphys-front.jpg') no-repeat center center fixed;
+  background-size: cover;
+  height: 200px;
+}
